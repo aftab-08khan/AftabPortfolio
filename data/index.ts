@@ -72,12 +72,16 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Weather App",
-    des: "Stay ahead of the weather with this dynamic React.js app, offering real-time updates and stunning visuals powered by Tailwind CSS and a weather API.",
-    img: "/p1.png",
-    iconLists: ["/re.svg", "/tail.svg"],
-    link: "https://weather-q8wbmxycy-aftab-08khans-projects.vercel.app/",
+    title: " Learning App",
+    des: "Enhance your skills with this innovative React Native app, built using Expo, Firebase, and Stack Navigator. Designed for multilingual support, it lets users create, manage, and explore custom questions in multiple languages, fostering an inclusive learning environment.",
+    img: "/p6.jpeg",
+    iconLists: [
+      "https://tse1.mm.bing.net/th?id=OIP.Xpth0jrXh4gWpVgrvL6S-gHaHa&pid=Api&P=0&h=220",
+      "https://tse2.mm.bing.net/th?id=OIP.c3Gj0DVBKnjavIjQ5SN7RAHaHa&pid=Api&P=0&h=220",
+    ],
+    link: "https://expo.dev/preview/update?message=width%20dimensions%20removed&updateRuntimeVersion=1.0.0&createdAt=2024-12-17T07%3A47%3A35.534Z&slug=exp&projectId=8f5bad53-3bf7-42ab-a395-5cc254b85cfe&group=d654c596-014c-46ae-b5bd-077c73f0c14b",
   },
+
   {
     id: 2,
     title: "Facade Line",
@@ -101,6 +105,28 @@ export const projects = [
     img: "/p4.png",
     iconLists: ["/next.svg", "/css.svg"],
     link: "https://www.tejasengineeringworks.co.in/",
+  },
+  {
+    id: 5,
+    title: "Just Buy",
+    des: "Experience seamless online shopping with this React Native eCommerce app, powered by Expo and REST APIs. Featuring advanced eCommerce functionalities like product browsing, cart management, secure checkout, and real-time updates, it ensures a smooth and user-friendly shopping experience.",
+    img: "/p5.jpeg",
+    iconLists: [
+      "https://tse1.mm.bing.net/th?id=OIP.Xpth0jrXh4gWpVgrvL6S-gHaHa&pid=Api&P=0&h=220",
+    ],
+    link: "https://expo.dev/preview/update?message=product%20details%20added&updateRuntimeVersion=1.0.0&createdAt=2024-12-31T13%3A24%3A48.154Z&slug=exp&projectId=65e82748-a155-4e63-99e2-2d08118bddea&group=9feb3de9-af06-41c5-88e6-284253e3750a",
+  },
+  {
+    id: 6,
+    title: "Cash N Carry",
+    des: "  Discover an elegant and user-friendly static website for a clothing store, crafted using HTML, CSS, and JavaScript. Showcasing beautifully styled pages with responsive layouts, interactive elements, and a seamless browsing experience, it highlights a curated collection of trendy outfits for every occasion.",
+    img: "/p7.png",
+    iconLists: [
+      "https://tse2.mm.bing.net/th?id=OIP.U1PL1zDlzqRGPcRrovytgAHaFj&pid=Api&P=0&h=220",
+      "./css.svg",
+      "https://tse2.mm.bing.net/th?id=OIP.Yk567-BTb3qeDgFqOGU6RwHaFj&pid=Api&P=0&h=220",
+    ],
+    link: "https://expo.dev/preview/update?message=product%20details%20added&updateRuntimeVersion=1.0.0&createdAt=2024-12-31T13%3A24%3A48.154Z&slug=exp&projectId=65e82748-a155-4e63-99e2-2d08118bddea&group=9feb3de9-af06-41c5-88e6-284253e3750a",
   },
 ];
 
